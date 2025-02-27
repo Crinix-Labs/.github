@@ -65,9 +65,9 @@ Here are the two languages we use most frequently in our projects:
 - ![EJS](https://img.shields.io/badge/EJS-%23A91A3B?style=flat-square&logo=ejs&logoColor=white): A powerful templating engine for embedding JavaScript into HTML, enabling dynamic page rendering with Express.js.
 ---
 
-> **"At Zypher Labs, we don't just chase innovation, we engineer it."**  
-> — **Zypher-labs Team**
+> **"At Crinix Labs, we don't just chase innovation, we engineer it."**  
+> — **Team Crinix**
 
 ---
 
-Crafted with ❤️ by the Zypher-Labs Legends ✨
+Crafted with ❤️ by the Crinix Cloud Legends ✨
