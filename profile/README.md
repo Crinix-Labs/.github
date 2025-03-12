@@ -1,73 +1,85 @@
-<div align="center">
-  <img src="banner.gif" alt="Zypher Logo" />
-</div>
 
-# 🌟 **Crinix-Labs** 🚀  
+# 🌙 Neoactyl
+![Animated Banner](https://raw.githubusercontent.com/Crinix-Labs/neoactyl/refs/heads/main/20250310_185008_0002.gif)
 
-**Flipping ideas into reality, one byte at a time.**  
-We are a forward-thinking tech organization dedicated to creating innovative solutions, empowering developers, and simplifying complex workflows.  
+Lunix Dash is a feature-rich Pterodactyl dashboard designed to provide seamless server management, user engagement, and monetization. Built with React and Tailwind CSS, it offers a modern and efficient user experience while integrating essential server management features.
 
----
+>  <pre style="color: red; background: #ffecec; padding: 10px; border: 1px solid red;">  ⚠️ This project is currently under active development. Features may change, and some functionalities may not be fully implemented yet. </pre>
 
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=D2F707&center=true&width=435&lines=Crinix+Labs" alt="Typing SVG" /></a>
-</div>
+## 🚀 Features (Planned)
 
----
+> 🌟 Core Features
 
-## ✨ **Our Mission**  
+User Authentication – Login/Register with email and password
 
-To **transform innovation into impact** by developing cutting-edge tools, fostering a global developer community, and delivering world-class solutions.  
+Server Management – Create and manage game servers
 
----
+Shop System – Users can buy resources, upgrades, and more
 
-## 🏆 **Why Crinix Labs?**  
+Coins System – Earn and spend virtual coins
 
-- 🌟 **Golden Standards**: Excellence in everything we build.  
-- ⚡ **Innovative Culture**: Passionate about emerging technologies.  
-- 🌍 **Global Impact**: Tools and solutions that redefine possibilities.  
+J4R (Join for Rewards) – Earn rewards by engaging with the community(s)
 
----
+Linkvertise Integration – Monetize traffic with ad-based earnings
 
-## 📂 **Our Projects**  
+AFK Rewards – Users earn coins by staying active
 
-| Project Name         | Description                           | Status 🚦 |
-|----------------------|---------------------------------------|----------|
-| **Lunix-panel**        | All-in-one server management solution | ⚙️ Under development |
-| **Lunix-dash**        | Next generation glossy of pterodactyl dashboard| ⚙️ Under development |
+Discord OAuth – Secure login with Discord
 
 
-Explore more in our **[repositories](https://github.com/Crinix-labs)**.
+## 🛠️ Admin Panel
 
----
+User Management – View, edit, and delete users
 
-## 🛠️ **Tech Stack We Use**  
+Resources Management – Allocate and adjust server resources
 
-```plaintext
-Languages  : JavaScript, TypeScript, Python, PHP
-Frameworks : Node.js, React, Tailwind CSS, Express.js
-Tools      : Docker, PM2
-Cloud      : AWS, Firebase, Google Cloud
-```
----
+Node Management – Manage Pterodactyl nodes efficiently
 
-## 🌐 Connect With Us  
+Egg Management – Control and configure game server templates
 
-📬 **Discord**: [Join Server](https://discord.gg/NpFnseAFNY)  
-🌍 **Website**: [lab.crinix.cloud](https://lab.crinix.cloud)
----
-## 🧑‍💻 **Most Used Languages**  
 
-Here are the two languages we use most frequently in our projects:
+## 🏗️ Tech Stack
 
-- ![Typescript](https://img.shields.io/badge/TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=whitehttps://img.shields.io/badge/Typescript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white): JavaScript with static types
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white): The backbone of our web applications, used for both front-end and back-end development with Node.js, React, and more.
-- ![EJS](https://img.shields.io/badge/EJS-%23A91A3B?style=flat-square&logo=ejs&logoColor=white): A powerful templating engine for embedding JavaScript into HTML, enabling dynamic page rendering with Express.js.
----
+Frontend: React, Tailwind CSS
 
-> **"At Crinix Labs, we don't just chase innovation, we engineer it."**  
-> — **Team Crinix**
+Backend: Node.js, Express
 
----
+Database: SQLite / MySQL
 
-Crafted with ❤️ by the Crinix Cloud Legends ✨
+Authentication: JWT & Discord OAuth
+
+Panel Integration: Pterodactyl API
+
+
+## 🏗️ Development Status
+
+Lunix Dash is in early development. Some features are incomplete or not yet available. Stay updated by following our progress!
+
+## 📌 Roadmap
+
+- [x] Basic authentication (login/register)
+
+- [x] 0Auth login(discord/google)
+
+- [ ] Server creation & management
+
+- [ ] Shop & coins system
+
+- [ ] Admin panel with user & resource management
+
+- [ ] J4R, Linkvertise, and AFK rewards system
+
+- [ ] UI/UX improvements
+
+
+## 💻 Installation (Coming Soon)
+
+Installation guides will be provided once the project reaches a stable version.
+
+## 🎯 Contributing
+
+We welcome contributions! Feel free to open issues or submit pull requests to help improve Lunix Dash.
+
+## 📜 License
+
+This project is licensed under [License](https://raw.githubusercontent.com/Crinix-Labs/Lunix-Dash/refs/heads/main/LICENSE).
